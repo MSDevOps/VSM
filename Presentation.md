@@ -30,7 +30,7 @@ The executive team and the project manager meet every month to review the change
 
 ## Architecture
 
-![](./media/architecture.png)
+![](./media/architecture.PNG)
 
 # Ops
 
