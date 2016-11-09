@@ -4,7 +4,7 @@
 
 1. [Description and presentation of the Phoenix Project](Presentation.md)
 2. [How to start](howToStart.md)
-3. [Wastes and recommandations](Wastes.md)
+3. [Wastes and recommendations](Wastes.md)
 
 ## Disclamer
 
