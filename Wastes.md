@@ -1,11 +1,11 @@
 # Wastes
 
-Once we are done mapping the different processes, we can start identifying wastes.
-A good approach is to start finding the Scrap Rate (S/R) for all the processes. This is how often a process will fail and will need to be done all over again. For example, if you have to configure an environment 3 times before things work, the S/R will be 75%.
-When a process never, or very rarely fails, you should not put a S/R number to avoid overflowing the map.
-S/R should be captured in red.
+Once we are done mapping the different processes, we can start identifying wastes.  
+A good approach is to start finding the Scrap Rate (S/R) for all the processes. This is how often a process will fail and will need to be done all over again. For example, if you have to configure an environment 3 times before things work, the S/R will be 75%.  
+When a process never, or very rarely fails, you should not put a S/R number to avoid overflowing the map.  
+S/R should be captured in red.  
 
-Once this is done we can now map the different kind of wastes. There are 8 kind of wastes, described below. They should be marked in red on the map.
+Once this is done we can now map the different kind of wastes. There are 8 kind of wastes, described below. They should be marked in red on the map.  
 
 Notation  | Waste Classification  | Description   | Examples |
 --- | --------------------- | ------------- | -------- |
@@ -20,9 +20,9 @@ H   | Heroics               | Unreasonable burden or extraordinary effort requir
 
 # Recommendations
 
-Once we are done capturing the wastes we can move to recommendations.
-Recommendations can be DevOps practices (such as Continuous Integration) or more general suggestions.
-Generally speaking, it is a good practice to avoid talking about specific tools, we want to keep the discussion to a higher level.
-With that said if a particular tool makes obvious sense it is okay to capture it directly. For example, if the customer should implement Continuous Integration, and they already stated their interest in VSTS, then it is okay to capture `CI (VSTS)` as a recommendation.
-Note that a recommendation might (and very often will) span multiple process.
-Recommendations should be marked in green.
+Once we are done capturing the wastes we can move to recommendations.  
+Recommendations can be DevOps practices (such as Continuous Integration) or more general suggestions.  
+Generally speaking, it is a good practice to avoid talking about specific tools, we want to keep the discussion to a higher level.  
+With that said if a particular tool makes obvious sense it is okay to capture it directly. For example, if the customer should implement Continuous Integration, and they already stated their interest in VSTS, then it is okay to capture `CI (VSTS)` as a recommendation.  
+Note that a recommendation might (and very often will) span multiple process.  
+Recommendations should be marked in green.  
